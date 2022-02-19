@@ -7,11 +7,8 @@ Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: Define a function called circulate to cirulate the n variables.
 ### Step 2: The function will circulate the n variables as per the input given.
-### Step 3:
-Get the value from the user for the number of rotation
-### Step 4: 
-Using the slicing concept rotate the list
-
+### Step 3:Get the value from the user for the number of rotation
+### Step 4: Using the slicing concept rotate the list
 ### Step 5: Print the circulated output as per the input given
 ### Step 6: End the program.
 ## Program:
